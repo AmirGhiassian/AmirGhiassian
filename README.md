@@ -45,12 +45,12 @@ Outside of day-to-day building, I'm part of the SUNY Brockport ACM Student Chapt
 ## GitHub stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmirGhiassian&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmirGhiassian&theme=github_dark" alt="GitHub stats" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AmirGhiassian&theme=transparent&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirGhiassian&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmirGhiassian&theme=github_dark" alt="Top languages" />
 </p>
 
 ## Live integrations
