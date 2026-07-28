@@ -15,11 +15,22 @@
   </a>
 </p>
 
+<p align="left">
+  <a href="https://www.amirghiassian.com/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-0A66C2?style=for-the-badge" alt="Portfolio site" />
+  </a>
+  <a href="https://www.linkedin.com/in/amirghiassian/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+  </a>
+</p>
+
 ## About me
 
 - I enjoy turning ideas into practical, maintainable software.
 - I care about clean architecture, strong DX, and measurable impact.
 - I'm always exploring better ways to build and ship.
+- Based in Rochester, NY.
+- Member of the SUNY Brockport ACM Student Chapter.
 
 ## Tech stack
 
@@ -39,6 +50,16 @@
 </p>
 
 ## Interactive section
+
+<details>
+  <summary><b>Quick facts</b></summary>
+  <br />
+
+  - Name: Amir
+  - Location: Rochester, NY
+  - Website: [amirghiassian.com](https://www.amirghiassian.com/)
+  - LinkedIn: [linkedin.com/in/amirghiassian](https://www.linkedin.com/in/amirghiassian/)
+</details>
 
 <details>
   <summary><b>What I'm focused on right now</b></summary>
